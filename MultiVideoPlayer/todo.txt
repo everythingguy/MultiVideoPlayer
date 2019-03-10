@@ -1,0 +1,63 @@
+﻿[ ] Parameter Handling
+ .	[x] search
+ .	[ ] thumbnailValidation
+ .	[ ] thumbnailValidationClose
+ .	[ ] exitOnPing
+ .	[x] autoReplacement
+ .	[ ] resumePlaylist
+ .	[ ] dateSort
+ .	[ ] pcShutdown
+ .	[ ] noKeyboard
+ .	[ ] 3by3
+ .	[ ] 3by3x2
+ .  [ ] 2by2x2
+ .  [ ] 2by2
+ .	[ ] help
+ .	[ ] settings
+ .	[ ] additionalSecondaryVideo
+
+[ ] Custom Parameter Menu
+
+[ ] Settings Support for different Dir Groupings
+
+[ ] if there are no thumbnails ask user if they want to create some
+
+[x] dual grid support (two screens)
+ .	[x] settings support for two different grid sizes
+
+[ ] three grid support (three screen)
+ .	[ ] settings support for three different grid sizes
+
+[ ] key binds menu auto enters combo keys when user is setting them
+
+[ ] dual computer support
+
+[ ] finish keys that don't work yet
+ .	[x] swap
+ .	[ ] delete video
+ .	[ ] remote player
+
+[ ] Get rid of beep when player is replaced to fast
+
+[ ] Show video titles on Dock
+
+[ ] Add buttons to top of Dock
+
+[ ] Auto Update from Git
+
+[ ] Install regedit keys
+
+[ ] Add keyboard key 
+ .	[ ] to close single player
+ .	[ ] to search
+
+[x] Search Children Dirs for Videos
+
+[ ] Auto check some chkboxs on settings when others are checked
+
+[ ] Optional use of graphics card
+
+[ ] Auto install reg file
+
+[ ] Debug/Testing
+ .	[ ] Thumbnail Creator
